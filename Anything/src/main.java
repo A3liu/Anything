@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class main {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		int n=sc.nextInt();//获取整数个数
+		int n=sc.nextInt();//获取整数个数   
 		
 		int []nums=new int[n];
 		char[][] numChar=new char[n][];
