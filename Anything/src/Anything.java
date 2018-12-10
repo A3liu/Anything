@@ -8,5 +8,6 @@ public class Anything {
 		int b=8;
 		int c=b << 1;
 		System.out.println(c);
+		System.out.println("hahaha");
 	}
 }
