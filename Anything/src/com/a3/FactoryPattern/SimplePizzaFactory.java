@@ -1,6 +1,6 @@
-package FactoryPattern;
+package com.a3.FactoryPattern;
 
-import FactoryPattern.Pizza.*;
+import com.a3.FactoryPattern.Pizza.*;
 
 public class SimplePizzaFactory {
 

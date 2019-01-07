@@ -1,7 +1,7 @@
-package commandPattern.command;
+package com.a3.commandPattern.command;
 
-import commandPattern.Command;
-import commandPattern.Entity.Light;
+import com.a3.commandPattern.Command;
+import com.a3.commandPattern.Entity.Light;
 
 public class LightOnCommand implements Command {
     Light light;

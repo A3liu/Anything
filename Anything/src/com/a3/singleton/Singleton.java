@@ -1,4 +1,4 @@
-package singleton;
+package com.a3.singleton;
 
 
 public class Singleton {

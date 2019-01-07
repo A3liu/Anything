@@ -1,8 +1,8 @@
-package commandPattern;
+package com.a3.commandPattern;
 
-import commandPattern.Entity.GarageDoor;
-import commandPattern.Entity.Light;
-import commandPattern.command.GarageDoorOpenCommand;
+import com.a3.commandPattern.Entity.GarageDoor;
+import com.a3.commandPattern.Entity.Light;
+import com.a3.commandPattern.command.GarageDoorOpenCommand;
 
 public class TestMain {
     public static void main(String[] args) {

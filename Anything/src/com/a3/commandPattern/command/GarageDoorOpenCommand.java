@@ -1,7 +1,7 @@
-package commandPattern.command;
+package com.a3.commandPattern.command;
 
-import commandPattern.Command;
-import commandPattern.Entity.GarageDoor;
+import com.a3.commandPattern.Command;
+import com.a3.commandPattern.Entity.GarageDoor;
 
 public class GarageDoorOpenCommand implements Command {
 

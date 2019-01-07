@@ -1,4 +1,4 @@
-package commandPattern.Entity;
+package com.a3.commandPattern.Entity;
 
 public class Light {
     public void on() {

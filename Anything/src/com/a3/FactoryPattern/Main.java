@@ -1,6 +1,6 @@
-package FactoryPattern;
+package com.a3.FactoryPattern;
 
-import FactoryPattern.Pizza.ChessePizza;
+import com.a3.FactoryPattern.Pizza.ChessePizza;
 
 public class Main {
     public static void main(String[] args) {

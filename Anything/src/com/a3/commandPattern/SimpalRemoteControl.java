@@ -1,4 +1,4 @@
-package commandPattern;
+package com.a3.commandPattern;
 
 public class SimpalRemoteControl {
     private Command slot;
